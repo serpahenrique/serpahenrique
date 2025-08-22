@@ -25,7 +25,7 @@ Sou apaixonado por tecnologia, especialmente por **Node.js** e **JavaScript**.
 <div align="center">
  <a href="https://github.com/serpahenrique">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=serpahenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
- <img height="1200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serpahenrique&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.05&hide=powershell,batchfile,shell" />
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serpahenrique&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.05&hide=powershell,batchfile,shell" />
  </a>
 </div>
 
