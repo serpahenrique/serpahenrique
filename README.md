@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia, especialmente por **Node.js** e **JavaScript**.
 
 ### ⚙️ Ferramentas e Versionamento
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma&perline=10)](https://skillicons.dev)
 
 ---
 
