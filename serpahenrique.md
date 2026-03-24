@@ -33,7 +33,7 @@ Olá! Me chamo **Henrique Serpa Rodrigues** e sou estudante de **Análise e Dese
 
 ### 💻 Linguagens e Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,php&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,java,php&perline=10)](https://skillicons.dev)
 
 ### 🧠 Banco de Dados
 
