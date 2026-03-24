@@ -9,12 +9,12 @@
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Henrique Serpa Rodrigues** e sou estudante de **Análise e Desenvolvimento de Sistemas**. 
-Sou apaixonado por tecnologia, especialmente por **Node.js** e **JavaScript**.
+Sou apaixonado por tecnologia, especialmente por **Java** e **MySQL**.
 
 <ul dir="auto">
 <li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>
-<li>🌐 Estudando PHP, MySQL, TypeScript e JQuery</li>
-<li>📚 Também possuo conhecimento front-end usando React + Tailwind CSS.</li>
+<li>🌐 Estudando Java, SpringBoot, Python, MySQL, API Rest </li>
+<li>📚 Também possuo conhecimento front-end usando React + TypeScript</li>
 <li>💼 Office Boy buscando entrar no mercado da tecnologia.</li>
 <li>🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo.</li>
 </ul>
