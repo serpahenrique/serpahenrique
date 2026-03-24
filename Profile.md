@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Desenvolvedor+FullStack;Estudante+de+ADS+%F0%9F%93%9A;Apaixonado+por+tecnologia" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=;Estudante+de+ADS+%F0%9F%93%9A;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Henrique Serpa Rodrigues** e sou estudante de **Análise e Desenvolvimento de Sistemas**. 
-Sou apaixonado por tecnologia, especialmente por **Java** e **MySQL**.
+.
 
 <ul dir="auto">
 <li>🧠 Estudante de Análise e Desenvolvimento de Sistemas</li>
